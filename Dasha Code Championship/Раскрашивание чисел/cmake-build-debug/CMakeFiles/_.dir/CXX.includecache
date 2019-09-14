@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maxim/Documents/Git Hub/Code_forces/Dasha Code Championship/Раскрашивание чисел/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
