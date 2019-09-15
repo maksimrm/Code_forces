@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/maxim/Documents/Git Hub/Code_forces/Round #585 /Желтые карточки/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5a21f/fast 
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5a21f.dir/build.make CMakeFiles/cmTC_5a21f.dir/build
+make[1]: *** No rule to make target `/Users/maxim/Documents/Git Hub/Code_forces/Round\', needed by `CMakeFiles/cmTC_5a21f.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_5a21f/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/maxim/Documents/Git Hub/Code_forces/Round #585 /Желтые карточки/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_661a9/fast 
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_661a9.dir/build.make CMakeFiles/cmTC_661a9.dir/build
+make[1]: *** No rule to make target `/Users/maxim/Documents/Git Hub/Code_forces/Round\', needed by `CMakeFiles/cmTC_661a9.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_661a9/fast] Error 2
+
+
+
