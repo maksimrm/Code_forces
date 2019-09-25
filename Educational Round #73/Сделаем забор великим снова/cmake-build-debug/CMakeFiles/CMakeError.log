@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/maxim/Documents/Git Hub/Code_forces/Educational Round #73/Сделаем забор великим снова/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b374d/fast 
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b374d.dir/build.make CMakeFiles/cmTC_b374d.dir/build
+make[1]: *** No rule to make target `/Users/maxim/Documents/Git Hub/Code_forces/Educational Round\', needed by `CMakeFiles/cmTC_b374d.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_b374d/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/maxim/Documents/Git Hub/Code_forces/Educational Round #73/Сделаем забор великим снова/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_51c41/fast 
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_51c41.dir/build.make CMakeFiles/cmTC_51c41.dir/build
+make[1]: *** No rule to make target `/Users/maxim/Documents/Git Hub/Code_forces/Educational Round\', needed by `CMakeFiles/cmTC_51c41.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_51c41/fast] Error 2
+
+
+
