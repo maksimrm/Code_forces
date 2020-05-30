@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maxim/Documents/Git Hub/Code_forces/Яндекс контест/Камни и украшения/main.cpp
+iostream
+-
+string
+-
+cstring
+-
+
